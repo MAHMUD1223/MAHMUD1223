@@ -1,7 +1,7 @@
 # Hi! I am Mahmud.
-I am a fullstack developer and a pentester(not that good yet but knows something).Feel free to reach <a href="mailto:omega@fuwari.be">me</a>.<br>
+I am a fullstack developer and a pentester.Feel free to reach <a href="mailto:omega@fuwari.be">me</a>.<br>
 Below is some of my detail:
-# My codewars account
+# Connect with me
 <a href="https://codewars.com/users/MAHMUD1223"><img src="https://www.codewars.com/users/MAHMUD1223/badges/large"></a>
 
 # My Summary of github
