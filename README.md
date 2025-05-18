@@ -1,13 +1,15 @@
-# 💫 About Me:
+1# 💫 About Me:
 👋 **Asalamu Alaykum! I'm Mahmud Hasan**<br><br>**Welcome to my GitHub!** I'm a dedicated **programmer**, **cybersecurity enthusiast**, and **tech explorer** from the vibrant city of **Dhaka, Bangladesh** 🇧🇩. My journey in tech has been a blend of curiosity and creativity, allowing me to dive into a variety of exciting fields. <br><br>
 ### 🌟 **What I Do:**<br>
 <br>- 💻 **Programming:** From high-level languages to **low-level concepts**, I love solving problems and building solutions. Whether it’s **web development**, **system programming**, or working with **microcontrollers**, I’m always up for a challenge.<br>  <br>- 🔒 **Cybersecurity:** Staying ahead of the game when it comes to **ethical hacking**, **threat analysis**, and understanding the fundamentals of **digital security** is something I’m passionate about.<br><br>- 🔧 **IoT & PCB Design:** Combining hardware with software through **IoT** projects is a thrill for me. I enjoy designing **PCBs** and bringing smart devices to life, making the physical world interact with code.<br><br>- ⚙️ **Low-Level Computing:** The inner workings of computers fascinate me. I'm constantly exploring topics like **assembly language**, **computer architecture**, and **operating systems** to deepen my understanding of how everything ties together.<br><br>
 ### 💡 **What I'm Interested In:**<br>
 <br>- 🌐 **Tech Trends & Innovations**<br>- 🛠️ **Open-source Projects**<br>- 📡 **IoT Devices & Smart Systems**<br>- 🖥️ **Systems Programming & Microcontrollers**<br><br>
 ### 🤝 **Let's Connect!**<br>
-<br>I'm always excited to collaborate with like-minded people, share knowledge, and contribute to open-source projects. If you have any questions, want to discuss ideas, or need help with a project, feel free to **reach out** – I'm happy to assist however I can!<br> Wanna have some fun together : <br> 
+<br>I'm always excited to collaborate with like-minded people, share knowledge, and contribute to open-source projects. If you have any questions, want to discuss ideas, or need help with a project, feel free to **reach out** – I'm happy to assist however I can!<br> Wanna have some fun together : <br> <br> 
 <a href="https://codewars.com/users/MAHMUD1223"><img src="https://www.codewars.com/users/MAHMUD1223/badges/large"></a>
+<br>
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mahmud1223.png)](https://tryhackme.com/p/mahmud1223)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cFdaxy4b2C) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100063361160289) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmud__1223) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud1223) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MAHMUD1223) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20836421) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MahmuD_1223) 
